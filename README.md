@@ -20,8 +20,8 @@ To run this Cheetah Photo Editor locally, please ensure you have Python and Flas
  
 
 ### Get Involved
-We welcome contributions to enhance the functionality and user experience of Cheetah Photo Editor. Feel free to fork the repository, make your changes, and submit a pull request for review.
+I welcome contributions to enhance the functionality and user experience of Cheetah Photo Editor. Feel free to fork the repository, make your changes, and submit a pull request for review.
 
-Thank you for visiting our Cheetah Photo Editor repository. Start editing your images with speed and agility using our intuitive web-based tool!
+Thank you for visiting my Cheetah Photo Editor repository. Start editing your images with speed and agility using our intuitive web-based tool!
 
 If you have any questions or feedback, please don't hesitate to reach out. Happy editing! 📸✨  
